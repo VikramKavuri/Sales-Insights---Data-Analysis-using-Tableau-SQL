@@ -293,9 +293,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **VIKRAM KAVURI**
 
-- GitHub: [@vikramkavuri](https://github.com/yourusername)
-- LinkedIn: [VIKRAM KAVURI](https://linkedin.com/in/yourusername)
-- Email: vikram.kavuri@email.com
+- GitHub: [@vikramkavuri](https://github.com/VikramKavuri)
+- LinkedIn: [VIKRAM KAVURI](https://www.linkedin.com/in/thrivikrama-rao-kavuri-7290b6147/)
+- Email: tkavuri@buffalo.edu.in
 
 ---
 
